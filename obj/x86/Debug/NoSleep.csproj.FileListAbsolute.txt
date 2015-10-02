@@ -1,0 +1,13 @@
+E:\Documents\DEV\Apps\NoSleep\NoSleep\bin\Debug\NoSleep.exe
+E:\Documents\DEV\Apps\NoSleep\NoSleep\bin\Debug\NoSleep.pdb
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.Form1.resources
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.Properties.Resources.resources
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.csproj.GenerateResource.Cache
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.exe
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.pdb
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.Form2.resources
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.csprojResolveAssemblyReference.cache
+E:\Documents\DEV\Apps\NoSleep\NoSleep\bin\Debug\NoSleep.exe.manifest
+E:\Documents\DEV\Apps\NoSleep\NoSleep\bin\Debug\NoSleep.application
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.exe.manifest
+E:\Documents\DEV\Apps\NoSleep\NoSleep\obj\x86\Debug\NoSleep.application
